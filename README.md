@@ -20,7 +20,7 @@
 
 ## 📫 Contato
 
-- Email: [clique aqui para me enviar um e-mail](mailto:rvalves10@gmail.com)
+- Email:[Me envie um e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=rvalves10@gmail.com&su=Contato%20Portf%C3%B3lio&body=Ol%C3%A1%20Richard%2C%20vi%20seu%20portf%C3%B3lio%20e...)
 - [Baixe meu currículo (Google Drive)](https://drive.google.com/file/d/1E_2UHKXR1sxFfEchp19wrcW0sHp6xe6z/view)
 
 ---

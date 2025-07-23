@@ -1,24 +1,28 @@
-Richard Victor - Portfólio Profissional
-Este repositório apresenta meu portfólio como Desenvolvedor Backend em formação. O objetivo é destacar minha trajetória, habilidades técnicas e projetos desenvolvidos, com foco na construção de soluções robustas e escaláveis utilizando Python, APIs e boas práticas de desenvolvimento.
+# Portfólio - Richard Victor
 
-🚀 Tecnologias Utilizadas
-HTML5
-CSS3 + TailwindCSS
-JavaScript (ES6+)
-Lucide Icons
-Google Fonts (Inter)
-Animações com IntersectionObserver API
+🎯 Portfólio pessoal desenvolvido para apresentar minhas habilidades e projetos na área de programação, com foco em backend e inteligência artificial.
 
+## 📌 Sobre mim
 
-🎯 Funcionalidades
-Layout moderno, responsivo e otimizado para dispositivos móveis
-Seções de apresentação pessoal, projetos e contato
-Efeitos de animação ao rolar a página (fade-in)
-Integração com GitHub, LinkedIn e currículo online
-Menu responsivo com alternância mobile
+👋 Olá! Meu nome é **Richard Victor**, sou de Sorocaba - SP, tenho 20 anos e atualmente estou em transição de carreira para a área de tecnologia. Estudo **Análise e Desenvolvimento de Sistemas** na FACES e tenho foco em **Python, APIs, bancos de dados** e **Inteligência Artificial**.
 
+## 🚀 Tecnologias Utilizadas
 
-📦 portfólio-richard
-┣ 📄 index.html 
-┣ 📄 style.css 
-┗ 📄 script.js
+- HTML5
+- Tailwind CSS
+- JavaScript (Vanilla)
+- Lucide Icons
+
+## 💼 Projetos em andamento
+
+- 📘 Chatbot Educacional sobre Investimentos
+- 🌐 QuebraDica Sorocaba - Portal colaborativo para moradores
+
+## 📫 Contato
+
+- Email: [clique aqui para me enviar um e-mail](mailto:rvalves10@gmail.com)
+- [Baixe meu currículo (Google Drive)](https://drive.google.com/file/d/1E_2UHKXR1sxFfEchp19wrcW0sHp6xe6z/view)
+
+---
+
+💻 Feito com dedicação e foco em crescimento contínuo. Obrigado por visitar!
